@@ -1,17 +1,7 @@
-# *********************************************
-# * ~/.bashrc Personalizado para Ubuntu *
-# * System: Ubuntu 12.04 – Precise Pangolin *
-# * local: /home/user/.bashrc *
+# *******************************************
+# Email: josuesouzadasilva@gmail.com
 # * *
-# * Author: Thiago Nalli Valentim *
-# * E-Mail: thiago.nalli@gmail.com *
-# * Date: 2012-05-24 *
-# *********************************************
-# ======================================================================
-# Adaptado do original de Edinaldo P. Silva para Arch Linux
-# URL: http://gnu2all.blogspot.com.br/2011/10/arch-linux-bashrc.html
-# ======================================================================
-
+# Por: Joshebr
 #-----------------------------------------------
 # Configurações Gerais
 #-----------------------------------------------
@@ -126,14 +116,6 @@ alias aptrepair='sudo apt-get -f install'
 # Reparar o dpkg
 alias dpkgrepair='sudo dpkg --configure -a'
 
-#==============================================
-# Aliases para uso no dia-a-dia e testes
-#==============================================
-
-# Testar conexão com ping
-alias google='ping -t 3 www.google.com.br' # Ping ao google a cada 3 segundos
-alias uol='ping -t 3 www.uol.com.br' # Ping ao UOL a cada 3 segundos
-
 #============
 # My Alias
 #============
@@ -144,4 +126,4 @@ alias l="ls"
 alias ll="ls -a"
 alias c="clear"
 
-filget "MEIRE"
+filget "Joshe-Br"
