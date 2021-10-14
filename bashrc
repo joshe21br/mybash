@@ -126,4 +126,4 @@ alias l="ls"
 alias ll="ls -a"
 alias c="clear"
 
-filget "Joshe-Br"
+figlet "Joshe-Br"
